@@ -32,38 +32,9 @@ Ent rmutl.
   </a>
 </p>
 
-<style>
-  p {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    padding: 10px;
-  }
-
-  a {
-    text-decoration: none;
-  }
-
-  img {
-    transition: transform 0.3s ease-in-out;
-  }
-
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
-
-
-
-
-
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
